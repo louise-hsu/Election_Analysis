@@ -35,7 +35,7 @@ The analysis of the election show that:
 - The candidates were: 
     - Charles Casper Stockham
     - Diana DeGette
-    - Ramon Anthony Doane
+    - Raymon Anthony Doane
 - The candidate results were:
     - Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes.
     - Diana DeGette received 73.8% of the votes and 272,892 number of votes.
