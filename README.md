@@ -61,7 +61,7 @@ Seth is asked by the elction commission if his team can confirm the voter turnou
 ## Challenge Summary
 ***Please note: The summary is found in the election_analysis.txt in the Analysis Folder in Github***
 
-The analysis of the election (Module 3 Challenge) shows that:
+The analysis of the election (Module 4 Challenge) shows that:
 - The voting counties were:
     - Jefferson
     - Denver
